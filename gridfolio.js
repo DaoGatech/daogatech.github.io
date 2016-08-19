@@ -54,7 +54,7 @@ var gf_content = [
   [ // row
     { // block
       title: "Face Detection",
-      link: "http://www.eventtentapp.com/",
+      link: "https://github.com/DaoGatech/face_detection",
       imageURL: "https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/09/1411507969JavaScript-logo-e1411508065970.png",
       keywords: ["Javascript", "Jasmine/Karma", "Bower"]
     },
@@ -66,13 +66,13 @@ var gf_content = [
     },
     { // block
       title: "MineSweeper",
-      link: "http://daogatech.com/colorme/",
+      link: "https://github.com/DaoGatech/MineSweeper",
       imageURL: "http://muhammadamjad.u.com.pk/wp-content/uploads/sites/478/2016/03/14122563919062-python_by_zaper3095-d30y4s7.jpg",
       keywords: ["Python"]
     },
     { // block
       title: "My Old City",
-      link: "http://anod.co/index.html",
+      link: "http://daogatech.com/saigonMap/",
       imageURL: "http://daogatech.com/MyOldCity/screenshot.png",
       keywords: ["Javascript", "HTML", "CSS", "Google API"]
     }
