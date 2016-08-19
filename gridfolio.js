@@ -20,6 +20,12 @@ var gf_content = [
       keywords: ["Cordova", "Javascript", "Java", "Objective C", "SQL", "PHP", "AWS"]
     },
     { // block
+      title: "Argon.js",
+      link: "http://argonjs.io/",
+      imageURL: "https://avatars0.githubusercontent.com/u/10728310?v=3&s=200",
+      keywords: ["Typescript"]
+    },
+    { // block
       title: "music recommendation system",
       link: "http://daogatech.com/MusicRecommend/index.html",
       imageURL: "http://icons.iconarchive.com/icons/sicons/flat-shadow-social/512/lastfm-icon.png",
@@ -30,13 +36,16 @@ var gf_content = [
       link: "http://daogatech.com/colorme/",
       imageURL: "images/colorme.png",
       keywords: ["Java", "Objective C", "SQL", "PHP"]
-    },
-    { // block
-      title: "ANOD",
-      link: "http://anod.co/index.html",
-      imageURL: "http://daogatech.com/ANOD/screenshot.png",
-      keywords: ["Java", "Objective C", "SQL", "PHP"]
     }
+  ],
+  [
+      { // block
+        title: "ANOD",
+        link: "http://anod.co/index.html",
+        imageURL: "http://daogatech.com/ANOD/screenshot.png",
+        keywords: ["Java", "Objective C", "SQL", "PHP"]
+      }
+      ,{},{},{}
   ],
   [ // row
     { // block
