@@ -1,4 +1,4 @@
-# daogatech.github.io
+# DaoGatech personal portfolio
 
 This repo hosts my codefolio, which showcases some of the projects I have contributed and personally worked on.
 
