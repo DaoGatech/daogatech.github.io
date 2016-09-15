@@ -23,7 +23,7 @@ var gf_content = [
       title: "Argon.js",
       link: "http://argonjs.io/",
       imageURL: "https://avatars0.githubusercontent.com/u/10728310?v=3&s=200",
-      keywords: ["Typescript", "Java", "Objective C"]
+      keywords: ["Typescript", "NativeScript", "Java", "Objective C"]
     },
     { // block
       title: "music recommendation system",
